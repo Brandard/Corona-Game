@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: B3. You are shocked
+  m_EditorClassIdentifier: 
+  storyText: "S1. Respect v/s Virus\r\nYou went in the supermarket and found crowd
+    of people buying alot of things for themselves. \r\n\r\nYou have no option but
+    to go home with a little of sanitizers.\r\n\r\n\r\n1. Start your journey again...............!!!   "
+  nextStates:
+  - {fileID: 11400000, guid: 5b6f7bc05ef74cc4c91379d3b70e122b, type: 2}
+  - {fileID: 11400000, guid: 30bd10ad9ea8db74bb652fd384bc414a, type: 2}

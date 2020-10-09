@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: B4. No More Thinking
+  m_EditorClassIdentifier: 
+  storyText: 'S2. Your conclusion
+
+    It sound very rude for your decision. You
+    are somehow correct because you have decided to:
+
+    
+
+    STAY HOME. SAVE
+    LIVES
+
+    
+
+    
+
+    1. Start your journey again...............You are Lucky           
+    !!!'
+  nextStates:
+  - {fileID: 11400000, guid: 5b6f7bc05ef74cc4c91379d3b70e122b, type: 2}

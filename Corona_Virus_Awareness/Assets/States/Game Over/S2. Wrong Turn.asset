@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: S2. Wrong Turn
+  m_EditorClassIdentifier: 
+  storyText: 'S2. Wrong Turn
+
+    You take risk what feels like good to you. You
+    find yourself at the other side of the road meaning you are lost from where you''re
+    going.
+
+    
+
+    You scramble around to find way out only to realize No exit.
+    You start now moving around to find where to go . You reach a point you found
+    a sign board written "WRONG TURN CORONA IS LUCKY AVAILABLE".
+
+    
+
+    From
+    behind you hear a surprised your village member. He rushes to hug you. You shoot.
+    No! No! No!. Thank goodness for your village member new you are not affected.
+    You''re safe. For now.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 54e144a51086dcc4f92854eed2a3ec40, type: 2}

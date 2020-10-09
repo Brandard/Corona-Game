@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: B2. Over-stressed
+  m_EditorClassIdentifier: 
+  storyText: 'X2. Your Way To The Party.
+
+    You bound a BODA BODA. It drops you
+    to your friend''s party.
+
+    
+
+    You take alcohol in the party up-to let
+    hours.
+
+    
+
+    Time to go home now. Curfew has taken his part.
+
+    
+
+    Your
+    caught drank and thank God your taken quarantine instead of police case.
+
+    
+
+    1.Play
+    again.......'
+  nextStates:
+  - {fileID: 11400000, guid: 6aa1b46e91f24844c973e16675178feb, type: 2}

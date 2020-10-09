@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A1. To The World
+  m_EditorClassIdentifier: 
+  storyText: 'A1. To The World
+
+    You are at home with your mother she is telling
+    you to attend with her a secret church  for prayers.
+
+
+
+    What should you do?
+
+
+
+    1.Stay
+    At Home.
+
+
+
+    2.Go With Her To church.'
+  nextStates:
+  - {fileID: 11400000, guid: 28b6c234d59386d47af3ead0c6c156f6, type: 2}
+  - {fileID: 11400000, guid: e5b2bb88aa4ff8446a242e0d9c7d2008, type: 2}

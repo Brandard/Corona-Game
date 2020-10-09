@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A11. Two Road Diversion
+  m_EditorClassIdentifier: 
+  storyText: "B2. You are not lucky\r\nAfter two weeks. You start showing signs of
+    Corona Virus. \r\n\r\nYour head is hurting. You start coughing. \r\n\r\nAs you
+    went to hospital for checkup your found with Corona Virus.\r\n\r\nYou took wrong
+    choice.\r\n\r\n1.Play again if you don't mine........"
+  nextStates:
+  - {fileID: 11400000, guid: 269dfcc4a9ddc5347929450d77b3ae1b, type: 2}
+  - {fileID: 11400000, guid: 6525790f9a151f942ae1cac03e7cdfa7, type: 2}

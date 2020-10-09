@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A2. In Your Mind
+  m_EditorClassIdentifier: 
+  storyText: 'A2. You''re Loyal To Yourself
+
+    You entered church with your mother
+    and a few of people are wearing mask.
+
+
+
+
+
+    So, what to do now?
+
+
+
+    1.
+    Sit With beloved mum.
+
+    2.Sit at back bench.'
+  nextStates:
+  - {fileID: 11400000, guid: c257de3b5a0f10e48b4ad6d48b33702f, type: 2}
+  - {fileID: 11400000, guid: 5f91fb9aaa95a6b47ad67775714882f3, type: 2}

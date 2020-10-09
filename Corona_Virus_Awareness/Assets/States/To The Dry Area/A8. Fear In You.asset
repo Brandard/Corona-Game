@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A8. Fear In You
+  m_EditorClassIdentifier: 
+  storyText: "B5.Worst Thing \r\nYou and your beloved mother have got Corona Virus
+    through touching the surface(The script your reading in church).\r\n\r\nYour
+    beloved mother has passed away living you behind.\r\n\r\nThat wasn't the best
+    choice!! You have Tried Your best.\r\n1.Start Again If You can....."
+  nextStates:
+  - {fileID: 11400000, guid: 26b2b4190ed0e474cb392afc5ef4b24a, type: 2}
+  - {fileID: 11400000, guid: f242a9307469a4e42acf47e93f2ffa3b, type: 2}

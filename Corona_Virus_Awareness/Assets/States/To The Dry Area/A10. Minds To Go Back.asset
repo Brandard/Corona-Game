@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A10. Minds To Go Back
+  m_EditorClassIdentifier: 
+  storyText: "B2. You are Comfortable\r\nYou decided to stay on with your mask on
+    your mouth because you knew about the virus. \r\n\r\nDespite of not having faith
+    on church that Jesus can heal you.\r\n\r\nYou are save for taking Precautions.                      
+    \r\n\r\n1.Play again if you don't mine........"
+  nextStates:
+  - {fileID: 11400000, guid: de7188d5b5c451746aa13f0958f88baa, type: 2}

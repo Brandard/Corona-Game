@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: Ao.Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Karibu/Welcome To This Game.
+
+
+    Its interesting game which base
+    on recent pandermic issue taking place. Be careful on your way and choose it
+    carefully!
+
+
+    At each stage you''ll be asked to push a key on the keyboard,
+    for example 1 or 2 or 3.
+
+
+    At any point in time, push "q" to quit.
+
+
+    Push
+    "1" To continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 062d3c6dc7a054649ad985b04006901a, type: 2}
+  - {fileID: 11400000}

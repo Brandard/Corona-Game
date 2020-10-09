@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7c9dcb83236484a972ecdf21ff3cd0, type: 3}
+  m_Name: A6. Scattered Houses
+  m_EditorClassIdentifier: 
+  storyText: 'A6. Ready To Go
+
+    You take shower now ready to go. As you move your
+    next step.
+
+
+
+    Police car is crossing with a red alert.
+
+
+
+    What to do?
+
+
+
+
+
+    1.Go
+    and party with friends.
+
+
+
+    2.Stay At home.'
+  nextStates:
+  - {fileID: 11400000, guid: 464decfc031574c4586f0d2afcf5c84a, type: 2}
+  - {fileID: 11400000, guid: 10874cf438e39104e9476e86b0d1f2c8, type: 2}
